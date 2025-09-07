@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058642161630",
+    "project_id": "zaka-66eb1",
+    "storage_bucket": "zaka-66eb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058642161630:android:3406a099937689fb9ff74f",
+        "android_client_info": {
+          "package_name": "com.example.vusportsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblQO-gjnV9d_DoSf-CXz3yWdo38lVcVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
